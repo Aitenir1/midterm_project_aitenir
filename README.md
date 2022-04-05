@@ -11,6 +11,7 @@ If you go to the right, you can appear on the left side
 
 The default rules for game of life
 
+<img width="635" alt="image" src="https://user-images.githubusercontent.com/72782648/161787572-083394d5-7894-4fd4-9683-0172e4f92ec5.png">
 
 https://user-images.githubusercontent.com/72782648/161770845-04b9d2e5-79ae-4a28-8df1-8e0458fcb713.mov
 
